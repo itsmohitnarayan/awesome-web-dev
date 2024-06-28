@@ -51,7 +51,7 @@ We want contributing to this awesome list to be as simple as possible. Just foll
 
 ## Contribution Guidelines
 
-- Ensure your contributions are relevant to bug bounty hunting.
+- Ensure your contributions are relevant to Web Development.
 - Follow the existing format and structure for consistency.
 - Check your spelling and grammar.
 - Ensure links are correct and working.
