@@ -23,13 +23,17 @@ A curated list of awesome web development resources, libraries, and tools.
 - [Static Site Generators](#static-site-generators)
 - [APIs](#apis)
 - [Databases](#databases)
-- [Build Tools](#build-tools)
+- [Performance Optimization](#performance-optimization)
+- [Web Components](#web-components)
+- [CSS in Js Libraries](#css-in-js-libraries)
 - [Package Managers](#package-managers)
 - [Version Control](#version-control)
-- [Code Quality](#code-quality)
+- [Static Analysis](#static-analysis)
 - [Performance](#performance)
-- [Security](#security)
+- [Web Security](#web-security)
 - [Testing](#testing)
+- [Web Assembly](#webassembly)
+- [Progressive Web Apps](#progressive-web-apps-pwas)
 - [Hosting](#hosting)
 - [Learning Platforms](#learning-platforms)
 - [Contributing](#contributing)
@@ -304,47 +308,67 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [Redis](https://redis.io/)
 - [Cassandra](http://cassandra.apache.org/)
 
-## Build Tools
+## Performance Optimization
 
-- [Webpack](https://webpack.js.org/)
-- [Parcel](https://parceljs.org/)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Improve the quality of your web apps.
+- [Webpack](https://webpack.js.org/) - A static module bundler for modern JavaScript applications.
+- [Rollup](https://rollupjs.org/) - A module bundler for JavaScript.
+- [Parcel](https://parceljs.org/) - A zero-configuration build tool for the web.
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
-- [Rollup](https://rollupjs.org/)
+
+## Web Components
+
+- [Web Components](https://www.webcomponents.org/) - A set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
+- [Stencil](https://stenciljs.com/) - A toolchain for building reusable, scalable Design Systems.
+- [Polymer](https://www.polymer-project.org/) - Reusable components for the modern web.
+- [Lit](https://lit.dev/) - Simple. Fast. Web Components.
+
+## CSS-in-JS Libraries
+
+- [styled-components](https://styled-components.com/)
+- [Emotion](https://emotion.sh/docs/introduction)
+- [JSS](https://cssinjs.org/)
+- [Linaria](https://linaria.dev/) - Zero-runtime CSS in JS library.
+- [Stitches](https://stitches.dev/) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 
 ## Package Managers
 
 - [npm](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
-- [pnpm](https://pnpm.io/)
+- [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
+- [Composer](https://getcomposer.org/) - Dependency Manager for PHP.
+- [Homebrew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux).
 
 ## Version Control
 
-- [Git](https://git-scm.com/)
-- [GitHub](https://github.com/)
-- [GitLab](https://gitlab.com/)
-- [Bitbucket](https://bitbucket.org/)
+- [GitHub Actions](https://github.com/features/actions) - Automate your workflow from idea to production.
+- [CircleCI](https://circleci.com/) - Automate your development process quickly, safely, and at scale.
+- [Travis CI](https://travis-ci.com/) - Test and Deploy Your Code with Confidence.
+- [Jenkins](https://www.jenkins.io/) - The leading open source automation server.
+- [GitLab CI](https://docs.gitlab.com/ee/ci/) - Continuous Integration, Continuous Delivery, and Continuous Deployment.
+- [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) - Integrated CI/CD for Bitbucket Cloud that's trivial to set up, automating your code from test to production.
 
-## Code Quality
+## Static Analysis
 
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Stylelint](https://stylelint.io/)
+- [ESLint](https://eslint.org/) - Find and fix problems in your JavaScript code.
+- [Stylelint](https://stylelint.io/) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+- [Prettier](https://prettier.io/) - An opinionated code formatter.
 - [SonarQube](https://www.sonarqube.org/)
 
 ## Performance
 
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [WebPageTest](https://www.webpagetest.org/)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [GTmetrix](https://gtmetrix.com/)
 
-## Security
+## Web Security
 
-- [OWASP](https://owasp.org/)
-- [Helmet](https://helmetjs.github.io/)
-- [Snyk](https://snyk.io/)
 - [Dependabot](https://github.com/dependabot)
+- [OWASP](https://owasp.org/) - Open Web Application Security Project is a nonprofit foundation that works to improve the security of software.
+- [Snyk](https://snyk.io/) - Continuously find and fix vulnerabilities.
+- [Helmet](https://helmetjs.github.io/) - Help secure Express apps with various HTTP headers.
+- [Content Security Policy](https://content-security-policy.com/) - Prevents a wide range of attacks, including Cross-Site Scripting (XSS) and data injection attacks.
 
 ## Testing
 
@@ -356,16 +380,26 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [Puppeteer](https://pptr.dev/) - Headless Chrome Node.js API by Google.
 - [Testing Library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
 
+## WebAssembly
+
+- [WebAssembly](https://webassembly.org/) - WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine.
+- [Emscripten](https://emscripten.org/) - Emscripten compiles C/C++ code to WebAssembly (or JavaScript).
+- [AssemblyScript](https://www.assemblyscript.org/) - A TypeScript-to-WebAssembly compiler.
+
+## Progressive Web Apps (PWAs)
+
+- [PWA Overview](https://developers.google.com/web/progressive-web-apps)
+- [Workbox](https://developers.google.com/web/tools/workbox) - JavaScript libraries for adding offline capabilities to web apps.
+
 ## Hosting
 
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
-- [GitHub Pages](https://pages.github.com/)
-- [Heroku](https://www.heroku.com/)
-- [AWS](https://aws.amazon.com/)
-- [Google Cloud](https://cloud.google.com/)
-- [Azure](https://azure.microsoft.com/)
-- [Coolify](https://coolify.io/)
+- [AWS](https://aws.amazon.com/) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services.
+- [Google Cloud](https://cloud.google.com/) - Google Cloud Platform lets you build, deploy, and scale applications, websites, and services.
+- [Azure](https://azure.microsoft.com/) - Microsoft Azure is an ever-expanding set of cloud services to help your organization meet your business challenges.
+- [Netlify](https://www.netlify.com/) - All-in-one platform for automating modern web projects.
+- [Vercel](https://vercel.com/) - Deploy web projects with the best frontend developer experience and highest end-user performance.
+- [Heroku](https://www.heroku.com/) - Platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+- [Coolify](https://coolify.io/) - A Open-Source Cheap Alternative to Web hosting.
 
 ## Learning Platforms
 
@@ -376,6 +410,10 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [Khan Academy](https://www.khanacademy.org/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [edX](https://www.edx.org/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Frontend Masters](https://frontendmasters.com/)
+- [Egghead.io](https://egghead.io/)
+- [Treehouse](https://teamtreehouse.com/)
 
 ## Contributing
 
