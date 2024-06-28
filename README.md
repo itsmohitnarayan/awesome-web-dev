@@ -12,7 +12,7 @@ A curated list of awesome web development resources, libraries, and tools.
 - [HTML](#html)
 - [CSS](#css)
 - [Icons](#icons)
-- [Online Compilers & IDE]()
+- [Online Compilers & IDE](#online-compilers--ide)
 - [Preprocessors](#preprocessors)
 - [Frameworks](#frameworks)
 - [JavaScript](#javascript)
