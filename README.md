@@ -264,30 +264,46 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
 - [Angular](https://angular.io/)
-- [Svelte](https://svelte.dev/)
+- [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps.
+- [Preact](https://preactjs.com/) - Fast 3kB alternative to React with the same modern API.
+- [Alpine.js](https://alpinejs.dev/) - A rugged, minimal framework for composing JavaScript behavior in your HTML.
+- [Lit](https://lit.dev/) - Simple. Fast. Web Components.
+- [Ember.js](https://emberjs.com/) - A framework for ambitious web developers.
+- [Backbone.js](https://backbonejs.org/) - Gives structure to web applications by providing models with key-value binding and custom events.
 
 ## Backend Frameworks
 
 - [Express](https://expressjs.com/)
 - [Django](https://www.djangoproject.com/)
+- [Flask](https://flask.palletsprojects.com/)
 - [Ruby on Rails](https://rubyonrails.org/)
-- [Laravel](https://laravel.com/)
 - [Spring](https://spring.io/)
+- [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+- [Laravel](https://laravel.com/)
+- [Koa](https://koajs.com/)
+- [NestJS](https://nestjs.com/) - A progressive Node.js framework for building efficient and scalable server-side applications.
+- [Phoenix](https://www.phoenixframework.org/) - A productive web framework that does not compromise speed and maintainability.
 
 ## Static Site Generators
 
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Jekyll](https://jekyllrb.com/)
+- [Hugo](https://gohugo.io/)
 - [Next.js](https://nextjs.org/)
 - [Nuxt.js](https://nuxtjs.org/)
-- [Gatsby](https://www.gatsbyjs.com/)
-- [Hugo](https://gohugo.io/)
-- [Jekyll](https://jekyllrb.com/)
+- [Eleventy](https://www.11ty.dev/)
+- [Hexo](https://hexo.io/)
+- [Docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites.
+- [Sapper](https://sapper.svelte.dev/) - The Next.js of Svelte.
+- [Gridsome](https://gridsome.org/) - Vue-powered static site generator.
 
 ## APIs
 
-- [REST](https://restfulapi.net/)
-- [GraphQL](https://graphql.org/)
-- [Apollo](https://www.apollographql.com/)
-- [JSON:API](https://jsonapi.org/)
+- [RESTful API](https://restfulapi.net/) - An architectural style for an application program interface (API) that uses HTTP requests to access and use data.
+- [GraphQL](https://graphql.org/) - A data query language developed by Facebook as an alternative to REST.
+- [Postman](https://www.postman.com/) - A collaboration platform for API development.
+- [Swagger](https://swagger.io/) - Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset.
+- [RapidAPI](https://rapidapi.com/) - Find and connect to thousands of APIs.
 
 ## Databases
 
