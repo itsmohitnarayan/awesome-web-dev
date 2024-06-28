@@ -190,6 +190,7 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [AWS](https://aws.amazon.com/)
 - [Google Cloud](https://cloud.google.com/)
 - [Azure](https://azure.microsoft.com/)
+- [Coolify](https://coolify.io/)
 
 ## Learning Platforms
 
