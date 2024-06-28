@@ -249,16 +249,6 @@ Welcome to the awesome web development resources list! This repository aims to p
 - [Ruby on Rails Documentation](https://guides.rubyonrails.org/)
 - [Awesome Rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails.
 
-### Testing
-
-- [Jest](https://jestjs.io/) - Delightful JavaScript Testing Framework with a focus on simplicity.
-- [Mocha](https://mochajs.org/) - Simple, flexible, fun JavaScript test framework.
-- [Chai](https://www.chaijs.com/) - BDD / TDD assertion framework for node.js and the browser that can be paired with any JavaScript testing framework.
-- [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser.
-- [Selenium](https://www.selenium.dev/) - Browser automation tool for testing web applications.
-- [Puppeteer](https://pptr.dev/) - Headless Chrome Node.js API by Google.
-- [Testing Library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
-
 ## Frontend Frameworks
 
 - [React](https://reactjs.org/)
@@ -358,11 +348,13 @@ Welcome to the awesome web development resources list! This repository aims to p
 
 ## Testing
 
-- [Jest](https://jestjs.io/)
-- [Mocha](https://mochajs.org/)
-- [Chai](https://www.chaijs.com/)
-- [Cypress](https://www.cypress.io/)
-- [Testing Library](https://testing-library.com/)
+- [Jest](https://jestjs.io/) - Delightful JavaScript Testing Framework with a focus on simplicity.
+- [Mocha](https://mochajs.org/) - Simple, flexible, fun JavaScript test framework.
+- [Chai](https://www.chaijs.com/) - BDD / TDD assertion framework for node.js and the browser that can be paired with any JavaScript testing framework.
+- [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser.
+- [Selenium](https://www.selenium.dev/) - Browser automation tool for testing web applications.
+- [Puppeteer](https://pptr.dev/) - Headless Chrome Node.js API by Google.
+- [Testing Library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
 
 ## Hosting
 
