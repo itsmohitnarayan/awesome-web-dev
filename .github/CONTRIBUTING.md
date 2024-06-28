@@ -12,8 +12,8 @@ We want contributing to this awesome list to be as simple as possible. Just foll
 2. **Clone Your Fork**
    - Clone your forked repository to your local machine:
      ```sh
-     git clone https://github.com/your-username/awesome-web-dev.git
-     cd awesome-web-dev
+     git clone https://github.com/your-username/awesome-web-dev-resources.git
+     cd awesome-web-dev-resources
      ```
 
 3. **Create a New Branch**

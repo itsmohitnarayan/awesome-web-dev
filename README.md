@@ -7,7 +7,7 @@ A curated list of awesome web development resources, libraries, and tools.
 - [Introduction](#introduction)
 - [General Resources](#general-resources)
 - [Roadmaps](#roadmaps)
-- [Cheaetsheet](#cheatsheets)
+- [Cheatsheet](#cheatsheets)
 - [Interview Questions](#interview-questions)
 - [HTML](#html)
 - [CSS](#css)
