@@ -393,6 +393,7 @@ Welcome to the awesome web development resources list! This repository aims to p
 
 ## Hosting
 
+- [Digital Ocean](https://m.do.co/c/fedbda1806aa) - A cheap web Hosting Platform. 
 - [AWS](https://aws.amazon.com/) - Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services.
 - [Google Cloud](https://cloud.google.com/) - Google Cloud Platform lets you build, deploy, and scale applications, websites, and services.
 - [Azure](https://azure.microsoft.com/) - Microsoft Azure is an ever-expanding set of cloud services to help your organization meet your business challenges.
